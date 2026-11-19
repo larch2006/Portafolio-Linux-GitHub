@@ -1,0 +1,21 @@
+REGISTRO DE COMANDOS LINUX - SEMANA 16
+
+1. pwd: Muestra la ubicación del directorio actual.
+
+2. ls: Lista los archivos y carpetas.
+
+3. ls -la: Muestra todos los archivos, incluidos los ocultos, con sus detalles.
+
+4. mkdir: Crea directorios.
+
+5. cd: Permite cambiar de directorio.
+
+6. touch: Crea un archivo vacío o actualiza su fecha de modificación.
+
+7. nano: Permite crear y editar archivos de texto.
+
+8. git init: Inicializa un repositorio Git local.
+
+9. git status: Muestra el estado de los archivos y cambios del repositorio.
+
+10. git log: Muestra el historial de commits.
